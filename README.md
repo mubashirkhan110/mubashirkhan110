@@ -10,6 +10,12 @@
 
 ---
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C4FF&center=true&vCenter=true&width=600&lines=Code.+Create.+Innovate.;Frontend+%2B+Agentic+AI+Developer;Always+learning%2C+always+shipping!+🚀" alt="Typing Animation" />
+</p>
+
+---
+
 ## 🧠 About Me  
 Hi! I'm **Mubashir Khan**, a passionate developer who loves building **interactive UIs** and **intelligent systems** that make technology feel human.  
 I enjoy merging the beauty of **Frontend Development** with the power of **Agentic AI** — turning complex ideas into sleek, functional applications.
@@ -72,10 +78,6 @@ I enjoy merging the beauty of **Frontend Development** with the power of **Agent
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C4FF&center=true&vCenter=true&width=600&lines=Code.+Create.+Innovate.;Frontend+%2B+Agentic+AI+Developer;Always+learning%2C+always+shipping!+🚀" alt="Typing Animation" />
-</p>
 
 ---
 
