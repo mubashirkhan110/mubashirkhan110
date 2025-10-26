@@ -26,13 +26,13 @@ I enjoy merging the beauty of **Frontend Development** with the power of **Agent
 <div align="center">
 
 ### 🚀 Frontend
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,angular,svelte&theme=light" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,angular,svelte&theme=dark" />
 
 ### 🧩 Backend / AI
-<img src="https://skillicons.dev/icons?i=python,fastapi,docker&theme=light" />
+<img src="https://skillicons.dev/icons?i=python,fastapi,docker&theme=dark" />
 
 ### ⚙️ Tools
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel&theme=light" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel&theme=dark" />
 
 </div>
 
@@ -74,7 +74,7 @@ I enjoy merging the beauty of **Frontend Development** with the power of **Agent
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C4FF&center=true&vCenter=true&width=600&lines=Code.+Create.+Innovate.;Frontend+%2B+Agentic+AI+Developer;Always+learning%2C+always+shipping!+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C4FF&center=true&vCenter=true&width=600&lines=Code.+Create.+Innovate.;Frontend+%2B+Agentic+AI+Developer;Always+learning%2C+always+shipping!+🚀" alt="Typing Animation" />
 </p>
 
 ---
